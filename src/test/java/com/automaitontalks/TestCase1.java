@@ -27,6 +27,8 @@ public class TestCase1 {
 	public void test1() {
 		driver.navigate().to("https://automationtalks.com/");
 		System.out.println("Test1 Title is: "+driver.getTitle());
+		System.out.println("this is test lineeeeeee ........");
+
 
 	}
 
