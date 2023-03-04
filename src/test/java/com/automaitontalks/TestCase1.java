@@ -28,6 +28,7 @@ public class TestCase1 {
 		driver.navigate().to("https://automationtalks.com/");
 		System.out.println("Test1 Title is: "+driver.getTitle());
 		System.out.println("this is test lineeeeeee ........");
+		System.out.println(".........this is test for branch cretion....");
 
 
 	}
